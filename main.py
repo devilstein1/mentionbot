@@ -1,3 +1,6 @@
+#STEIN @rejerk at telegram
+
+
 import random
 import asyncio
 from telethon import TelegramClient, events
@@ -297,3 +300,6 @@ async def avatar(event):
         pass
 
 client.run_until_disconnected()
+
+#STEIN @rejerk at telegram
+
